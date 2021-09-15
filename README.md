@@ -46,3 +46,6 @@ Passando ambos os termos por um Filtro Passa-Baixas <img src="https://render.git
 As partes de alta frequência tornam-se zero.
 
 <img src="https://render.githubusercontent.com/render/math?math=f_{pb}(Rx\cdot {cos(2\pi\cdot 7000\cdot t)}) = Y">
+
+Conclusão:
+Para demodular o sinal original, basta multiplicar pela mesma base trigonométrica original e aplicar um filtro passa-baixas.
